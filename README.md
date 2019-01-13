@@ -10,7 +10,7 @@ Cette présentation a pour but de présenter l'outil Docker à l'ensemble de la 
 L'exemple d'utilisation de Docker est basé sur la reproductibilité et la portabilité du projet python de l'an dernier.
 
 ******************
-#Projet python:
+# Projet python:
 Cette étude avait pour but l'identification des fonctions des domaines du complexe sRNP H/ACA
 
 - Confo_global.py permet de réaliser une recherche des domaines flexibles dans la protéine
@@ -20,7 +20,7 @@ Usage:
 	python3 Confo_global.py -ref pab21_structure_de_ref.pdb -conf pab21_prod_solute_500frames.pdb -domaines A1,A2,A3,A4,B
 
 ****************
-#Docker usage:
+# Docker usage:
 
 Installation Docker:
 https://docs.docker.com/install/
